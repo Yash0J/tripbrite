@@ -27,12 +27,4 @@ class CustomIcon {
   }
 }
 
-///use this to use icons color[ Icon(CustomIcon.icon1Icon, size: 24, color: Colors.red) ]
-///
-///
-///
-// git init
-// git add .
-// git commit -m "Initial commit"
-// git remote add origin https://github.com/yash-0304/tripbrite.git
-// git push -u origin master
+///use this to use icons color[ Icon(CustomIcon.help, size: 24, color: Colors.red) ]
